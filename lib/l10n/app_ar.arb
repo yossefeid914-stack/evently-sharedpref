@@ -1,0 +1,26 @@
+{
+"language":"اللغة",
+"english":"الانجليزية",
+"arabic":"العربية",
+"theme":"النمط",
+"dark":"ليلي",
+"light":"نهاري",
+"dark_mode":"الوضع الليلي ",
+"logout":"تسجيل الخروج",
+"home":"الرئيسية",
+"favorite":"المفضلة",
+"profile":"الملف الشخصي",
+"welcome back":"مرحبا بك",
+ "all":"الكل",
+ "sport":"الرياضة",
+ "birthDay":"عيد الميلاد",
+ "meeting":"الاجتماع",
+ "gaming":"الالعاب",
+ "workShop":"العمل",
+ "book_club":"نادي الكتب",
+ "exhibition":"المعرض",
+ "holiday":"الاجازه",
+ "eating":"الطعام",
+ "search_for_event":"البحث عن حدث"
+
+}
